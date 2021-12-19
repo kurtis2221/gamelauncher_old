@@ -1,0 +1,9 @@
+Title
+Width,Height
+Text Color
+Background Color
+Icon Path
+Select SND Path (only wav files, null to turn off)|Click SND Path (only wav files, null to turn off)
+Cursor Scan Interval (for selection effect, default: 200, lower not recommended)|Click SND Wait time (milliseconds, null to turn off, default: 500)
+Game Name|Game Path|Game Icon|Work Dir (Optional)|Running parameters (Optional)
+...
